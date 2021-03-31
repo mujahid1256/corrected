@@ -1,0 +1,25 @@
+div{
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+
+}
+
+p{
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+}
+
+.btn{
+    font-size: 26px;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
